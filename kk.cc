@@ -86,6 +86,9 @@ int main(){
 // black and vice versa and run dfs on them.
 // at last check that each edge has ends with different colors.
 
+// 1 4 
+// 2 3 5
+
 //round trip
 // Question is about finding cycle.We will run a dfs an keep vector VIS
 // to keep track of the nodes in the recusion stack.If we are at node p
